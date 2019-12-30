@@ -1,0 +1,2 @@
+- Create a local web server to run.
+- We will get `tained` canvas if run directly from file.
